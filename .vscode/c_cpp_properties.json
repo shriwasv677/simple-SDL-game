@@ -1,0 +1,21 @@
+    {
+       "configurations": [
+           {
+               "name": "Windows OS",
+               "compileCommands": "${workspaceFolder}/build/default/compile_commands.json",
+               "includePath": [
+                   "${workspaceFolder}/**"
+               ],
+               "defines": [
+                   "_DEBUG",
+                   "UNICODE",
+                   "_UNICODE"
+               ],
+               "windowsSdkVersion": "10.0.22621.0",
+               "cStandard": "gnu23",
+               "cppStandard": "c++20",
+               "intelliSenseMode": "windows-clang-x86"
+           }
+       ],
+       "version": 4
+   }
