@@ -1,0 +1,14 @@
+{
+  "name": "badwa",
+  "version": "1.0.0",
+  "builtin-baseline": "3ef9a78b0e01bc54fa515ac83c266cbe57bf8f9b",
+  "dependencies": [
+    "sdl2"
+  ],
+  "overrides": [
+    {
+      "name": "sdl2",
+      "version": "2.32.6"
+    }
+  ]
+}
