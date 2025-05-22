@@ -3,13 +3,13 @@
 #include <cstdlib>
 #include <ctime>
 
-const int PLAYER_SIZE = 100;
-const int ENEMY_WIDTH = 80;
+const int PLAYER_SIZE = 10;
+const int ENEMY_WIDTH = 5;
 const int ENEMY_HEIGHT = 60;
-const int BULLET_WIDTH = 10;
-const int BULLET_HEIGHT = 40;
+const int BULLET_WIDTH = 100;
+const int BULLET_HEIGHT = 400;
 
-const int PLAYER_SPEED = 10;
+const int PLAYER_SPEED = 20;
 const int BULLET_SPEED = 50;
 const int ENEMY_SPEED = 2;
 
